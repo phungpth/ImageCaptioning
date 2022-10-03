@@ -2,7 +2,6 @@ from keras import layers, models
 from utils import data_generator
 
 class ImageCaptioningModel:
-
     def __init__(self, max_length, vocab_size, embedding_dim, embedding_matrix, *args):
       self.__model = None
       self.my_args = args

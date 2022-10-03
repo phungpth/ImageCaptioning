@@ -1,1 +1,5 @@
 glove.6B
+_feature_extractor.py
+Flickr_8k
+_vocabulary.py
+.DS_Store
